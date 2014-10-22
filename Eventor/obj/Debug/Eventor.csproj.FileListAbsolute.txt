@@ -1,0 +1,165 @@
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Test.dll.config
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Test.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Test.pdb
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Antlr3.Runtime.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\EntityFramework.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\EntityFramework.SqlServer.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.Owin.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.Owin.Security.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.Owin.Security.Google.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.Web.Infrastructure.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Newtonsoft.Json.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Owin.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\System.Web.Helpers.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\System.Web.Mvc.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\System.Web.Optimization.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\System.Web.Razor.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\System.Web.WebPages.Deployment.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\System.Web.WebPages.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\System.Web.WebPages.Razor.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\WebGrease.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\System.Web.Helpers.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\System.Web.Mvc.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\System.Web.Optimization.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\System.Web.Razor.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\System.Web.WebPages.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\System.Web.WebPages.Deployment.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\System.Web.WebPages.Razor.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Newtonsoft.Json.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Antlr3.Runtime.pdb
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\EntityFramework.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\EntityFramework.SqlServer.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.Owin.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.Owin.Security.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.Owin.Security.Google.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\obj\Debug\Test.dll
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\obj\Debug\Test.pdb
+c:\users\karelsimanek\documents\visual studio 2013\Projects\ASM\Test\Test\obj\Debug\Eventor.csprojResolveAssemblyReference.cache
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Test.dll.config
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Test.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Test.pdb
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Antlr3.Runtime.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\EntityFramework.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\EntityFramework.SqlServer.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.Owin.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.Owin.Security.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Newtonsoft.Json.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Owin.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\System.Web.Helpers.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\System.Web.Mvc.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\System.Web.Optimization.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\System.Web.Razor.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\System.Web.WebPages.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\System.Web.WebPages.Razor.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\WebGrease.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\System.Web.Helpers.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\System.Web.Mvc.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\System.Web.Optimization.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\System.Web.Razor.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\System.Web.WebPages.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\System.Web.WebPages.Razor.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Newtonsoft.Json.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Antlr3.Runtime.pdb
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\EntityFramework.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\EntityFramework.SqlServer.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.Owin.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.Owin.Security.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\obj\Debug\Test.dll
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\obj\Debug\Test.pdb
+C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\obj\Debug\Eventor.csprojResolveAssemblyReference.cache
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Test.dll.config
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Test.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Test.pdb
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Antlr3.Runtime.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\EntityFramework.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\EntityFramework.SqlServer.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Newtonsoft.Json.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Owin.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\System.Web.Helpers.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\System.Web.Mvc.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\System.Web.Optimization.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\System.Web.Razor.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\System.Web.WebPages.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\System.Web.WebPages.Razor.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\WebGrease.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\System.Web.Helpers.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\System.Web.Mvc.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\System.Web.Optimization.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\System.Web.Razor.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\System.Web.WebPages.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\System.Web.WebPages.Razor.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Newtonsoft.Json.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Antlr3.Runtime.pdb
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\EntityFramework.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\EntityFramework.SqlServer.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\obj\Debug\Eventor.csprojResolveAssemblyReference.cache
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\obj\Debug\Test.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\obj\Debug\Test.pdb
