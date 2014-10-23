@@ -204,8 +204,21 @@ namespace Eventor.Controllers
                 return RedirectToAction("Login");
             }
 
+            var externalIdentity = await AuthenticationManager
+                .GetExternalIdentityAsync(DefaultAuthenticationTypes.ExternalCookie);
+
+            var emailClaim = externalIdentity.Claims.FirstOrDefault(x =>
+                x.Type.Equals(
+                    "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress",
+                    StringComparison.OrdinalIgnoreCase));
+
+            var emailAddress = emailClaim != null
+                ? emailClaim.Value
+                : null;
+
             // Sign in the user with this external login provider if the user already has a login
             var user = await UserManager.FindAsync(loginInfo.Login);
+
             if (user != null)
             {
                 await SignInAsync(user, isPersistent: false);
@@ -216,7 +229,7 @@ namespace Eventor.Controllers
                 // If the user does not have an account, then prompt the user to create an account
                 ViewBag.ReturnUrl = returnUrl;
                 ViewBag.LoginProvider = loginInfo.Login.LoginProvider;
-                return View("ExternalLoginConfirmation", new ExternalLoginConfirmationViewModel { UserName = loginInfo.DefaultUserName });
+                return View("ExternalLoginConfirmation", new ExternalLoginConfirmationViewModel { UserName = emailAddress });
             }
         }
 

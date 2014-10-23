@@ -160,6 +160,6 @@ C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.OAuth.
 C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\KarelSimanek\Desktop\Eventor\Eventor\obj\Debug\Eventor.csprojResolveAssemblyReference.cache
 C:\Users\KarelSimanek\Desktop\Eventor\Eventor\obj\Debug\Test.dll
 C:\Users\KarelSimanek\Desktop\Eventor\Eventor\obj\Debug\Test.pdb
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\obj\Debug\Eventor.csprojResolveAssemblyReference.cache

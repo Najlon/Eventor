@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNet.Identity.EntityFramework;
+using System.Data.Entity;
 
 namespace Eventor.Models
 {
@@ -11,9 +12,15 @@ namespace Eventor.Models
 
     public class EventorUserDbContext : IdentityDbContext<EventorUser>
     {
-        public EventorUserDbContext()
-            : base("UserDatabase")
+        public EventorUserDbContext() : base("UserDatabase")
         {
+        }
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<IdentityUser>().ToTable("EventorUsers", "dbo"); // .Property(p => p.Id).HasColumnName("UserId");
+            modelBuilder.Entity<EventorUser>().ToTable("EventorUsers", "dbo");
         }
     }
 }

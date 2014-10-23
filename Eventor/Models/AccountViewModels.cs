@@ -4,8 +4,9 @@ namespace Eventor.Models
 {
     public class ExternalLoginConfirmationViewModel
     {
+        [EmailAddress]
         [Required]
-        [Display(Name = "User name")]
+        [Display(Name = "E-Mail")]
         public string UserName { get; set; }
     }
 
@@ -45,9 +46,10 @@ namespace Eventor.Models
 
     public class RegisterViewModel
     {
+        [EmailAddress]
         [Required]
         [Display(Name = "E-Mail")]
-        //[DataType(DataType.EmailAddress)]
+        [DataType(DataType.EmailAddress)]
         public string UserName { get; set; }
 
         [Required]

@@ -9,8 +9,6 @@ namespace Eventor
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
-
-            app.UseGoogleAuthentication();
         }
     }
 }
