@@ -108,9 +108,6 @@ C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\
 C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\obj\Debug\Test.dll
 C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\obj\Debug\Test.pdb
 C:\Users\KarelSimanek\Documents\Visual Studio 2013\Projects\ASM\Eventor\Eventor\obj\Debug\Eventor.csprojResolveAssemblyReference.cache
-C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Test.dll.config
-C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Test.dll
-C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Test.pdb
 C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Antlr3.Runtime.dll
 C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\EntityFramework.dll
 C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\EntityFramework.SqlServer.dll
@@ -160,6 +157,9 @@ C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.OAuth.
 C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\KarelSimanek\Desktop\Eventor\Eventor\obj\Debug\Test.dll
-C:\Users\KarelSimanek\Desktop\Eventor\Eventor\obj\Debug\Test.pdb
 C:\Users\KarelSimanek\Desktop\Eventor\Eventor\obj\Debug\Eventor.csprojResolveAssemblyReference.cache
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Eventor.dll.config
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Eventor.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\bin\Eventor.pdb
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\obj\Debug\Eventor.dll
+C:\Users\KarelSimanek\Desktop\Eventor\Eventor\obj\Debug\Eventor.pdb

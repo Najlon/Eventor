@@ -12,7 +12,8 @@ namespace Eventor.Models
 
     public class EventorUserDbContext : IdentityDbContext<EventorUser>
     {
-        public EventorUserDbContext() : base("UserDatabase")
+        public EventorUserDbContext()
+            : base("UserDatabase")
         {
         }
 
